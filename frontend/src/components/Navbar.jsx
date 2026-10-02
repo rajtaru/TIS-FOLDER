@@ -48,9 +48,7 @@ const Navbar = () => {
         <a href="#" className="block">
           Contact
         </a>
-        <button className="px-6 py-2 hover:bg-blue-950 bg-black text-white rounded-xl  cursor-pointer">
-          Donate
-        </button>
+        <ThemeToggleBtn />
       </div>
     </nav>
   );
