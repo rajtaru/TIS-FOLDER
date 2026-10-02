@@ -34,7 +34,7 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       <div
-        className={`${open ? "flex" : "hidden"} absolute top-15 left-0 w-full bg-white shadow-md py-4 flex-col items-start gap-2 px-5 text-sm md:hidden`}
+        className={`${open ? "flex" : "hidden"} absolute top-15 left-0 w-full dark:bg-gray-900 bg-white shadow-md py-4 flex-col items-start gap-2 px-5 text-sm md:hidden`}
       >
         <a href="#" className="block">
           About
