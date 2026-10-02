@@ -3,7 +3,7 @@
 A modern, animated redesign of the Tulas International School homepage focusing on high conversion, fluid animations, and mobile responsiveness.
 
 ## 🚀 Live Demo
-- **Live URL:** [https://frontend-git-main-ommis-projects.vercel.app/](https://frontend-git-main-ommis-projects.vercel.app/)
+- **Live URL:** [https://tis-folder.vercel.app//](https://tis-folder.vercel.app//)
 - **Repository:** [https://github.com/rajtaru/TIS-FOLDER](https://github.com/rajtaru/TIS-FOLDER)
 
 ## 🛠️ Tech Stack
